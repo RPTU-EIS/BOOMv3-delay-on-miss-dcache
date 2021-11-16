@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/import/home/jauch/chipyard/generators/boom-v3-Delay-on-Miss-DCache/src/main/resources/csrc/btb_sw.cc,/import/home/jauch/chipyard/generators/boom-v3-Delay-on-Miss-DCache/target/scala-2.12/classes/csrc/btb_sw.cc)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/import/home/jauch/chipyard/generators/boom-v3-Delay-on-Miss-DCache/src/main/resources/csrc/predictor_sw.cc,/import/home/jauch/chipyard/generators/boom-v3-Delay-on-Miss-DCache/target/scala-2.12/classes/csrc/predictor_sw.cc)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/import/home/jauch/chipyard/generators/boom-v3-Delay-on-Miss-DCache/src/main/resources/vsrc/btb_harness.v,/import/home/jauch/chipyard/generators/boom-v3-Delay-on-Miss-DCache/target/scala-2.12/classes/vsrc/btb_harness.v)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/import/home/jauch/chipyard/generators/boom-v3-Delay-on-Miss-DCache/src/main/resources/vsrc/predictor_harness.v,/import/home/jauch/chipyard/generators/boom-v3-Delay-on-Miss-DCache/target/scala-2.12/classes/vsrc/predictor_harness.v)[0m
